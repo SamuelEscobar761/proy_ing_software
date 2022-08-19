@@ -1,5 +1,3 @@
-package com.company;
-
 public class Producto {
     int precio;
     public Producto(int precio){
